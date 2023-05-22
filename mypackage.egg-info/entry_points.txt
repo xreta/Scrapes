@@ -1,0 +1,6 @@
+[console_scripts]
+scrape_blog = scraping.blog.main:default
+scrape_fifa = scraping.fifa.main:default
+scrape_shop = scraping.shop.main:default
+scrape_webb = scraping.webb.main:default
+scrape_wiki = scraping.wiki.main:default
