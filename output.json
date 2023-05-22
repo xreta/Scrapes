@@ -1,1 +1,169 @@
-[{"topic_name": "python", "post_title": "Building Beautiful Command Line Interfaces with Python", "post_link": "https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df", "author_name": "Oyetoke Tobiloba Emmanuel", "post_date": "2018-06-18", "read_time": 7, "author_follower_count": 2171, "post_clap_count": 7551, "post_comment_count": 20, "post_tags": ["Git", "Python", "Cli", "Tech", "UI"]}, {"topic_name": "python", "post_title": "Lambda, Map, and Filter in Python", "post_link": "https://betterprogramming.pub/lambda-map-and-filter-in-python-4935f248593", "author_name": "Rupesh Mishra", "post_date": "2017-05-06", "read_time": 2, "author_follower_count": 2651, "post_clap_count": 6419, "post_comment_count": 17, "post_tags": ["Functional Programming", "Python", "Python Programming", "Python3"]}, {"topic_name": "python", "post_title": "3 ChatGPT Extensions to Automate Your Life", "post_link": "https://artificialcorner.com/3-chatgpt-extensions-to-automate-your-life-ae4f66100262", "author_name": "The PyCoach", "post_date": "2023-01-09", "read_time": 3, "author_follower_count": 58401, "post_clap_count": 5365, "post_comment_count": 74, "post_tags": ["ChatGPT", "Artificial Intelligence", "Social Media", "Technology", "Python"]}, {"topic_name": "python", "post_title": "Python: 7 Important Reasons Why You Should Use Python", "post_link": "https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-should-use-python-5801a98a0d0b", "author_name": "Mindfire Solutions", "post_date": "2017-10-03", "read_time": 3, "author_follower_count": 1267, "post_clap_count": 2207, "post_comment_count": 19, "post_tags": ["Python Developers", "Python Gui Frameworks", "Python", "Python Programming", "Python Web Developer"]}, {"topic_name": "python", "post_title": "Machine Learning, NLP: Text Classification using scikit-learn, python and NLTK.", "post_link": "https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a", "author_name": "Javed Shaikh", "post_date": "2017-07-24", "read_time": 6, "author_follower_count": 517, "post_clap_count": 6432, "post_comment_count": 75, "post_tags": ["Machine Learning", "Python", "Nltk", "Classification", "NLP"]}, {"topic_name": "python", "post_title": "How to Easily Convert a Python Script to an Executable File (.exe)", "post_link": "https://towardsdatascience.com/how-to-easily-convert-a-python-script-to-an-executable-file-exe-4966e253c7e9", "author_name": "The PyCoach", "post_date": "2021-05-26", "read_time": 4, "author_follower_count": 58401, "post_clap_count": 983, "post_comment_count": 14, "post_tags": ["Python", "Data Science", "Technology", "Programming", "Productivity"]}, {"topic_name": "python", "post_title": "PyTorch vs TensorFlow\u200a\u2014\u200aspotting the difference", "post_link": "https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b", "author_name": "Kirill Dubovikov", "post_date": "2017-06-21", "read_time": 8, "author_follower_count": 2206, "post_clap_count": 9281, "post_comment_count": 34, "post_tags": ["Machine Learning", "Deep Learning", "TensorFlow", "Python", "Pytorch"]}, {"topic_name": "python", "post_title": "How to read CSV File into Python using Pandas", "post_link": "https://towardsdatascience.com/how-to-read-csv-file-using-pandas-ab1f5e7e7b58", "author_name": "Barney H.", "post_date": "2020-05-26", "read_time": 2, "author_follower_count": 351, "post_clap_count": 356, "post_comment_count": 3, "post_tags": ["Python", "Programming", "Pandas", "Pandas Dataframe", "Data Science"]}, {"topic_name": "python", "post_title": "Mutable vs Immutable Objects in Python", "post_link": "https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747", "author_name": "megha mohan", "post_date": "2017-05-25", "read_time": 4, "author_follower_count": 1020, "post_clap_count": 6235, "post_comment_count": 34, "post_tags": ["Programming", "Holberton School", "Python", "Oop", "Object Oriented"]}, {"topic_name": "python", "post_title": "How to Export Pandas DataFrame to CSV", "post_link": "https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03", "author_name": "Barney H.", "post_date": "2020-03-22", "read_time": 1, "author_follower_count": 351, "post_clap_count": 412, "post_comment_count": 5, "post_tags": ["Python", "Programming", "Data Science", "Pandas", "Dataframes"]}]
+[
+  {
+    "topic_name": "python",
+    "post_title": "Building Beautiful Command Line Interfaces with Python",
+    "post_link": "https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df",
+    "author_name": "Oyetoke Tobiloba Emmanuel",
+    "post_date": "2018-06-18",
+    "read_time": 7,
+    "author_follower_count": 2171,
+    "post_clap_count": 7551,
+    "post_comment_count": 20,
+    "post_tags": ["Git", "Python", "Cli", "Tech", "UI"]
+  },
+  {
+    "topic_name": "python",
+    "post_title": "Lambda, Map, and Filter in Python",
+    "post_link": "https://betterprogramming.pub/lambda-map-and-filter-in-python-4935f248593",
+    "author_name": "Rupesh Mishra",
+    "post_date": "2017-05-06",
+    "read_time": 2,
+    "author_follower_count": 2651,
+    "post_clap_count": 6419,
+    "post_comment_count": 17,
+    "post_tags": [
+      "Functional Programming",
+      "Python",
+      "Python Programming",
+      "Python3"
+    ]
+  },
+  {
+    "topic_name": "python",
+    "post_title": "3 ChatGPT Extensions to Automate Your Life",
+    "post_link": "https://artificialcorner.com/3-chatgpt-extensions-to-automate-your-life-ae4f66100262",
+    "author_name": "The PyCoach",
+    "post_date": "2023-01-09",
+    "read_time": 3,
+    "author_follower_count": 58401,
+    "post_clap_count": 5365,
+    "post_comment_count": 74,
+    "post_tags": [
+      "ChatGPT",
+      "Artificial Intelligence",
+      "Social Media",
+      "Technology",
+      "Python"
+    ]
+  },
+  {
+    "topic_name": "python",
+    "post_title": "Python: 7 Important Reasons Why You Should Use Python",
+    "post_link": "https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-should-use-python-5801a98a0d0b",
+    "author_name": "Mindfire Solutions",
+    "post_date": "2017-10-03",
+    "read_time": 3,
+    "author_follower_count": 1267,
+    "post_clap_count": 2207,
+    "post_comment_count": 19,
+    "post_tags": [
+      "Python Developers",
+      "Python Gui Frameworks",
+      "Python",
+      "Python Programming",
+      "Python Web Developer"
+    ]
+  },
+  {
+    "topic_name": "python",
+    "post_title": "Machine Learning, NLP: Text Classification using scikit-learn, python and NLTK.",
+    "post_link": "https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a",
+    "author_name": "Javed Shaikh",
+    "post_date": "2017-07-24",
+    "read_time": 6,
+    "author_follower_count": 517,
+    "post_clap_count": 6432,
+    "post_comment_count": 75,
+    "post_tags": ["Machine Learning", "Python", "Nltk", "Classification", "NLP"]
+  },
+  {
+    "topic_name": "python",
+    "post_title": "How to Easily Convert a Python Script to an Executable File (.exe)",
+    "post_link": "https://towardsdatascience.com/how-to-easily-convert-a-python-script-to-an-executable-file-exe-4966e253c7e9",
+    "author_name": "The PyCoach",
+    "post_date": "2021-05-26",
+    "read_time": 4,
+    "author_follower_count": 58401,
+    "post_clap_count": 983,
+    "post_comment_count": 14,
+    "post_tags": [
+      "Python",
+      "Data Science",
+      "Technology",
+      "Programming",
+      "Productivity"
+    ]
+  },
+  {
+    "topic_name": "python",
+    "post_title": "PyTorch vs TensorFlow\u200a\u2014\u200aspotting the difference",
+    "post_link": "https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b",
+    "author_name": "Kirill Dubovikov",
+    "post_date": "2017-06-21",
+    "read_time": 8,
+    "author_follower_count": 2206,
+    "post_clap_count": 9281,
+    "post_comment_count": 34,
+    "post_tags": [
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "Python",
+      "Pytorch"
+    ]
+  },
+  {
+    "topic_name": "python",
+    "post_title": "How to read CSV File into Python using Pandas",
+    "post_link": "https://towardsdatascience.com/how-to-read-csv-file-using-pandas-ab1f5e7e7b58",
+    "author_name": "Barney H.",
+    "post_date": "2020-05-26",
+    "read_time": 2,
+    "author_follower_count": 351,
+    "post_clap_count": 356,
+    "post_comment_count": 3,
+    "post_tags": [
+      "Python",
+      "Programming",
+      "Pandas",
+      "Pandas Dataframe",
+      "Data Science"
+    ]
+  },
+  {
+    "topic_name": "python",
+    "post_title": "Mutable vs Immutable Objects in Python",
+    "post_link": "https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747",
+    "author_name": "megha mohan",
+    "post_date": "2017-05-25",
+    "read_time": 4,
+    "author_follower_count": 1020,
+    "post_clap_count": 6235,
+    "post_comment_count": 34,
+    "post_tags": [
+      "Programming",
+      "Holberton School",
+      "Python",
+      "Oop",
+      "Object Oriented"
+    ]
+  },
+  {
+    "topic_name": "python",
+    "post_title": "How to Export Pandas DataFrame to CSV",
+    "post_link": "https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03",
+    "author_name": "Barney H.",
+    "post_date": "2020-03-22",
+    "read_time": 1,
+    "author_follower_count": 351,
+    "post_clap_count": 412,
+    "post_comment_count": 5,
+    "post_tags": [
+      "Python",
+      "Programming",
+      "Data Science",
+      "Pandas",
+      "Dataframes"
+    ]
+  }
+]

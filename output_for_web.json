@@ -1,1 +1,182 @@
-[{"topic_name": "web-development", "post_title": "JavaScript \u2014 Map vs. ForEach", "post_link": "https://codeburst.io/javascript-map-vs-foreach-f38111822c0f", "author_name": "Brandon Morelli", "post_date": "2017-12-11", "read_time": 3, "author_follower_count": 34311, "post_clap_count": 17873, "post_comment_count": 52, "post_tags": ["JavaScript", "Web Development", "Technology", "Programming", "Coding"]}, {"topic_name": "web-development", "post_title": "Keep Your Promises in TypeScript using async/await", "post_link": "https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308", "author_name": "Gilad Shoham", "post_date": "2018-06-19", "read_time": 10, "author_follower_count": 281, "post_clap_count": 2025, "post_comment_count": 9, "post_tags": ["JavaScript", "Web Development", "Programming", "Coding", "Software Development"]}, {"topic_name": "web-development", "post_title": "Learning Python: From Zero to Hero", "post_link": "https://medium.com/free-code-camp/learning-python-from-zero-to-hero-120ea540b567", "author_name": "TK", "post_date": "2017-10-01", "read_time": 10, "author_follower_count": 13694, "post_clap_count": 67353, "post_comment_count": 132, "post_tags": ["Python", "Programming", "Coding", "Web Development", "Software Development"]}, {"topic_name": "web-development", "post_title": "How to Remove Array Duplicates in ES6", "post_link": "https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c", "author_name": "Samantha Ming", "post_date": "2019-01-14", "read_time": 3, "author_follower_count": 7137, "post_clap_count": 16904, "post_comment_count": 79, "post_tags": ["JavaScript", "Programming", "Web Development", "Software Development", "Front End Development"]}, {"topic_name": "web-development", "post_title": "Single-page application vs. multiple-page application", "post_link": "https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58", "author_name": "Neoteric", "post_date": "2016-12-02", "read_time": 5, "author_follower_count": 531, "post_clap_count": 5073, "post_comment_count": 40, "post_tags": ["Web Development", "Single Page Applications", "Application Development", "Web Applications", "Software Development"]}, {"topic_name": "web-development", "post_title": "Using Bootstrap with Angular", "post_link": "https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a", "author_name": "Sebastian", "post_date": "2017-03-16", "read_time": 5, "author_follower_count": 12030, "post_clap_count": 1982, "post_comment_count": 28, "post_tags": ["Angular", "Web Development", "Angularjs", "Angular2", "Bootstrap"]}, {"topic_name": "web-development", "post_title": "17 Killer Websites for Web Developers", "post_link": "https://javascript.plainenglish.io/17-killer-websites-for-web-developers-13e1e30345b8", "author_name": "Harsh Makadia", "post_date": "2021-09-13", "read_time": 3, "author_follower_count": 3297, "post_clap_count": 7808, "post_comment_count": 59, "post_tags": ["Programming", "Productivity", "Web Development", "Front End Development", "JavaScript"]}, {"topic_name": "web-development", "post_title": "RESTful API Designing guidelines \u2014 The best practices", "post_link": "https://medium.com/@haldar.mahesh/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9", "author_name": "Mahesh Haldar", "post_date": "2017-02-03", "read_time": 6, "author_follower_count": 2512, "post_clap_count": 19779, "post_comment_count": 91, "post_tags": ["API", "Restful", "Best Practices", "Software Development", "Web Development"]}, {"topic_name": "web-development", "post_title": "The Secret to Being a Top Developer Is Building Things! Here\u2019s a List of Fun Apps to Build!", "post_link": "https://betterprogramming.pub/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c", "author_name": "Trevor-Indrek Lasn", "post_date": "2017-12-02", "read_time": 4, "author_follower_count": 28759, "post_clap_count": 87149, "post_comment_count": 119, "post_tags": ["JavaScript", "Tech", "Programming", "Web Development", "Mobile App Development"]}, {"topic_name": "web-development", "post_title": "11 JavaScript Animation Libraries For 2019", "post_link": "https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59", "author_name": "Jonathan Saring", "post_date": "2018-06-07", "read_time": 5, "author_follower_count": 8533, "post_clap_count": 18683, "post_comment_count": 40, "post_tags": ["JavaScript", "Programming", "Web Development", "React", "Software Development"]}]
+[
+  {
+    "topic_name": "web-development",
+    "post_title": "JavaScript \u2014 Map vs. ForEach",
+    "post_link": "https://codeburst.io/javascript-map-vs-foreach-f38111822c0f",
+    "author_name": "Brandon Morelli",
+    "post_date": "2017-12-11",
+    "read_time": 3,
+    "author_follower_count": 34311,
+    "post_clap_count": 17873,
+    "post_comment_count": 52,
+    "post_tags": [
+      "JavaScript",
+      "Web Development",
+      "Technology",
+      "Programming",
+      "Coding"
+    ]
+  },
+  {
+    "topic_name": "web-development",
+    "post_title": "Keep Your Promises in TypeScript using async/await",
+    "post_link": "https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308",
+    "author_name": "Gilad Shoham",
+    "post_date": "2018-06-19",
+    "read_time": 10,
+    "author_follower_count": 281,
+    "post_clap_count": 2025,
+    "post_comment_count": 9,
+    "post_tags": [
+      "JavaScript",
+      "Web Development",
+      "Programming",
+      "Coding",
+      "Software Development"
+    ]
+  },
+  {
+    "topic_name": "web-development",
+    "post_title": "Learning Python: From Zero to Hero",
+    "post_link": "https://medium.com/free-code-camp/learning-python-from-zero-to-hero-120ea540b567",
+    "author_name": "TK",
+    "post_date": "2017-10-01",
+    "read_time": 10,
+    "author_follower_count": 13694,
+    "post_clap_count": 67353,
+    "post_comment_count": 132,
+    "post_tags": [
+      "Python",
+      "Programming",
+      "Coding",
+      "Web Development",
+      "Software Development"
+    ]
+  },
+  {
+    "topic_name": "web-development",
+    "post_title": "How to Remove Array Duplicates in ES6",
+    "post_link": "https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c",
+    "author_name": "Samantha Ming",
+    "post_date": "2019-01-14",
+    "read_time": 3,
+    "author_follower_count": 7137,
+    "post_clap_count": 16904,
+    "post_comment_count": 79,
+    "post_tags": [
+      "JavaScript",
+      "Programming",
+      "Web Development",
+      "Software Development",
+      "Front End Development"
+    ]
+  },
+  {
+    "topic_name": "web-development",
+    "post_title": "Single-page application vs. multiple-page application",
+    "post_link": "https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58",
+    "author_name": "Neoteric",
+    "post_date": "2016-12-02",
+    "read_time": 5,
+    "author_follower_count": 531,
+    "post_clap_count": 5073,
+    "post_comment_count": 40,
+    "post_tags": [
+      "Web Development",
+      "Single Page Applications",
+      "Application Development",
+      "Web Applications",
+      "Software Development"
+    ]
+  },
+  {
+    "topic_name": "web-development",
+    "post_title": "Using Bootstrap with Angular",
+    "post_link": "https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a",
+    "author_name": "Sebastian",
+    "post_date": "2017-03-16",
+    "read_time": 5,
+    "author_follower_count": 12030,
+    "post_clap_count": 1982,
+    "post_comment_count": 28,
+    "post_tags": [
+      "Angular",
+      "Web Development",
+      "Angularjs",
+      "Angular2",
+      "Bootstrap"
+    ]
+  },
+  {
+    "topic_name": "web-development",
+    "post_title": "17 Killer Websites for Web Developers",
+    "post_link": "https://javascript.plainenglish.io/17-killer-websites-for-web-developers-13e1e30345b8",
+    "author_name": "Harsh Makadia",
+    "post_date": "2021-09-13",
+    "read_time": 3,
+    "author_follower_count": 3297,
+    "post_clap_count": 7808,
+    "post_comment_count": 59,
+    "post_tags": [
+      "Programming",
+      "Productivity",
+      "Web Development",
+      "Front End Development",
+      "JavaScript"
+    ]
+  },
+  {
+    "topic_name": "web-development",
+    "post_title": "RESTful API Designing guidelines \u2014 The best practices",
+    "post_link": "https://medium.com/@haldar.mahesh/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9",
+    "author_name": "Mahesh Haldar",
+    "post_date": "2017-02-03",
+    "read_time": 6,
+    "author_follower_count": 2512,
+    "post_clap_count": 19779,
+    "post_comment_count": 91,
+    "post_tags": [
+      "API",
+      "Restful",
+      "Best Practices",
+      "Software Development",
+      "Web Development"
+    ]
+  },
+  {
+    "topic_name": "web-development",
+    "post_title": "The Secret to Being a Top Developer Is Building Things! Here\u2019s a List of Fun Apps to Build!",
+    "post_link": "https://betterprogramming.pub/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c",
+    "author_name": "Trevor-Indrek Lasn",
+    "post_date": "2017-12-02",
+    "read_time": 4,
+    "author_follower_count": 28759,
+    "post_clap_count": 87149,
+    "post_comment_count": 119,
+    "post_tags": [
+      "JavaScript",
+      "Tech",
+      "Programming",
+      "Web Development",
+      "Mobile App Development"
+    ]
+  },
+  {
+    "topic_name": "web-development",
+    "post_title": "11 JavaScript Animation Libraries For 2019",
+    "post_link": "https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59",
+    "author_name": "Jonathan Saring",
+    "post_date": "2018-06-07",
+    "read_time": 5,
+    "author_follower_count": 8533,
+    "post_clap_count": 18683,
+    "post_comment_count": 40,
+    "post_tags": [
+      "JavaScript",
+      "Programming",
+      "Web Development",
+      "React",
+      "Software Development"
+    ]
+  }
+]

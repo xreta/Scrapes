@@ -1,1 +1,164 @@
-[{"topic_name": "data-science", "post_title": "Ridge and Lasso Regression: L1 and L2 Regularization", "post_link": "https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b", "author_name": "Saptashwa Bhattacharyya", "post_date": "2018-09-26", "read_time": 7, "author_follower_count": 3324, "post_clap_count": 2933, "post_comment_count": 11, "post_tags": ["Machine Learning", "Python", "Scikit Learn", "Data Science", "Linear Regression"]}, {"topic_name": "data-science", "post_title": "Why and How to make a Requirements.txt", "post_link": "https://boscacci.medium.com/why-and-how-to-make-a-requirements-txt-f329c685181e", "author_name": "Robert Boscacci", "post_date": "2018-11-19", "read_time": 6, "author_follower_count": 389, "post_clap_count": 4254, "post_comment_count": 17, "post_tags": ["Python", "Data Science", "Beginner", "How To", "Tutorial"]}, {"topic_name": "data-science", "post_title": "What exactly can you do with Python? Here are Python's 3 main applications.", "post_link": "https://towardsdatascience.com/what-can-you-do-with-python-the-3-main-applications-518db9a68a78", "author_name": "YK Sugi", "post_date": "2018-06-15", "read_time": 9, "author_follower_count": 10749, "post_clap_count": 42273, "post_comment_count": 107, "post_tags": ["Python", "Data Visualization", "Data Science", "Web Development", "Programming"]}, {"topic_name": "data-science", "post_title": "How ChatGPT Works: The Models Behind The Bot", "post_link": "https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286", "author_name": "Molly Ruby", "post_date": "2023-01-31", "read_time": 7, "author_follower_count": 2488, "post_clap_count": 7448, "post_comment_count": 126, "post_tags": ["ChatGPT", "Machine Learning", "Data Science", "NLP", "Editors Pick"]}, {"topic_name": "data-science", "post_title": "5 ChatGPT features to boost your daily work", "post_link": "https://medium.com/geekculture/5-chatgpt-features-to-boost-your-daily-work-404478fd70ca", "author_name": "Josep Ferrer", "post_date": "2023-01-17", "read_time": 7, "author_follower_count": 8345, "post_clap_count": 4359, "post_comment_count": 68, "post_tags": ["Artificial Intelligence", "Data Science", "ChatGPT", "Programming", "Python"]}, {"topic_name": "data-science", "post_title": "Ensemble methods: bagging, boosting and stacking", "post_link": "https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205", "author_name": "Joseph Rocca", "post_date": "2019-04-23", "read_time": 19, "author_follower_count": 5014, "post_clap_count": 9357, "post_comment_count": 32, "post_tags": ["Machine Learning", "Data Science", "Deep Learning", "Artificial Intelligence", "Towards Data Science"]}, {"topic_name": "data-science", "post_title": "101 DATA SCIENCE Cheat Sheets (ML, DL, Scraping, Python, R, SQL, Maths & Statistics)", "post_link": "https://medium.com/@anushka.datascoop/101-data-science-cheat-sheets-ml-dl-scraping-python-r-sql-maths-statistics-ef30b4d786eb", "author_name": "Anushka Bajpai", "post_date": "2022-03-21", "read_time": 4, "author_follower_count": 2054, "post_clap_count": 3384, "post_comment_count": 52, "post_tags": ["Cheatsheet", "Data Science", "Data Visualization", "Python", "Summary"]}, {"topic_name": "data-science", "post_title": "A Quick Introduction to the \u201cPandas\u201d Python Library", "post_link": "https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673", "author_name": "Adi Bronshtein", "post_date": "2017-04-18", "read_time": 6, "author_follower_count": 3484, "post_clap_count": 2535, "post_comment_count": 19, "post_tags": ["Data Science", "Python", "Pandas", "Data Analysis"]}, {"topic_name": "data-science", "post_title": "I ranked every Intro to Data Science course on the internet, based on thousands of data points", "post_link": "https://medium.com/free-code-camp/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e", "author_name": "David Venturi", "post_date": "2017-01-26", "read_time": 12, "author_follower_count": 17674, "post_clap_count": 6416, "post_comment_count": 54, "post_tags": ["Data Science", "Programming", "Big Data", "Tech", "Startup"]}, {"topic_name": "data-science", "post_title": "Programming Languages to Avoid and Learn in 2022.", "post_link": "https://zriyansh.medium.com/programming-languages-to-avoid-and-learn-in-2022-c8e2a1cdf427", "author_name": "Priyansh Khodiyar", "post_date": "2021-12-15", "read_time": 16, "author_follower_count": 1684, "post_clap_count": 5999, "post_comment_count": 133, "post_tags": ["Programming Languages", "Technology", "Software Engineering", "JavaScript", "Data Science"]}]
+[
+  {
+    "topic_name": "data-science",
+    "post_title": "Ridge and Lasso Regression: L1 and L2 Regularization",
+    "post_link": "https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b",
+    "author_name": "Saptashwa Bhattacharyya",
+    "post_date": "2018-09-26",
+    "read_time": 7,
+    "author_follower_count": 3324,
+    "post_clap_count": 2933,
+    "post_comment_count": 11,
+    "post_tags": [
+      "Machine Learning",
+      "Python",
+      "Scikit Learn",
+      "Data Science",
+      "Linear Regression"
+    ]
+  },
+  {
+    "topic_name": "data-science",
+    "post_title": "Why and How to make a Requirements.txt",
+    "post_link": "https://boscacci.medium.com/why-and-how-to-make-a-requirements-txt-f329c685181e",
+    "author_name": "Robert Boscacci",
+    "post_date": "2018-11-19",
+    "read_time": 6,
+    "author_follower_count": 389,
+    "post_clap_count": 4254,
+    "post_comment_count": 17,
+    "post_tags": ["Python", "Data Science", "Beginner", "How To", "Tutorial"]
+  },
+  {
+    "topic_name": "data-science",
+    "post_title": "What exactly can you do with Python? Here are Python's 3 main applications.",
+    "post_link": "https://towardsdatascience.com/what-can-you-do-with-python-the-3-main-applications-518db9a68a78",
+    "author_name": "YK Sugi",
+    "post_date": "2018-06-15",
+    "read_time": 9,
+    "author_follower_count": 10749,
+    "post_clap_count": 42273,
+    "post_comment_count": 107,
+    "post_tags": [
+      "Python",
+      "Data Visualization",
+      "Data Science",
+      "Web Development",
+      "Programming"
+    ]
+  },
+  {
+    "topic_name": "data-science",
+    "post_title": "How ChatGPT Works: The Models Behind The Bot",
+    "post_link": "https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286",
+    "author_name": "Molly Ruby",
+    "post_date": "2023-01-31",
+    "read_time": 7,
+    "author_follower_count": 2488,
+    "post_clap_count": 7448,
+    "post_comment_count": 126,
+    "post_tags": [
+      "ChatGPT",
+      "Machine Learning",
+      "Data Science",
+      "NLP",
+      "Editors Pick"
+    ]
+  },
+  {
+    "topic_name": "data-science",
+    "post_title": "5 ChatGPT features to boost your daily work",
+    "post_link": "https://medium.com/geekculture/5-chatgpt-features-to-boost-your-daily-work-404478fd70ca",
+    "author_name": "Josep Ferrer",
+    "post_date": "2023-01-17",
+    "read_time": 7,
+    "author_follower_count": 8345,
+    "post_clap_count": 4359,
+    "post_comment_count": 68,
+    "post_tags": [
+      "Artificial Intelligence",
+      "Data Science",
+      "ChatGPT",
+      "Programming",
+      "Python"
+    ]
+  },
+  {
+    "topic_name": "data-science",
+    "post_title": "Ensemble methods: bagging, boosting and stacking",
+    "post_link": "https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205",
+    "author_name": "Joseph Rocca",
+    "post_date": "2019-04-23",
+    "read_time": 19,
+    "author_follower_count": 5014,
+    "post_clap_count": 9357,
+    "post_comment_count": 32,
+    "post_tags": [
+      "Machine Learning",
+      "Data Science",
+      "Deep Learning",
+      "Artificial Intelligence",
+      "Towards Data Science"
+    ]
+  },
+  {
+    "topic_name": "data-science",
+    "post_title": "101 DATA SCIENCE Cheat Sheets (ML, DL, Scraping, Python, R, SQL, Maths & Statistics)",
+    "post_link": "https://medium.com/@anushka.datascoop/101-data-science-cheat-sheets-ml-dl-scraping-python-r-sql-maths-statistics-ef30b4d786eb",
+    "author_name": "Anushka Bajpai",
+    "post_date": "2022-03-21",
+    "read_time": 4,
+    "author_follower_count": 2054,
+    "post_clap_count": 3384,
+    "post_comment_count": 52,
+    "post_tags": [
+      "Cheatsheet",
+      "Data Science",
+      "Data Visualization",
+      "Python",
+      "Summary"
+    ]
+  },
+  {
+    "topic_name": "data-science",
+    "post_title": "A Quick Introduction to the \u201cPandas\u201d Python Library",
+    "post_link": "https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673",
+    "author_name": "Adi Bronshtein",
+    "post_date": "2017-04-18",
+    "read_time": 6,
+    "author_follower_count": 3484,
+    "post_clap_count": 2535,
+    "post_comment_count": 19,
+    "post_tags": ["Data Science", "Python", "Pandas", "Data Analysis"]
+  },
+  {
+    "topic_name": "data-science",
+    "post_title": "I ranked every Intro to Data Science course on the internet, based on thousands of data points",
+    "post_link": "https://medium.com/free-code-camp/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e",
+    "author_name": "David Venturi",
+    "post_date": "2017-01-26",
+    "read_time": 12,
+    "author_follower_count": 17674,
+    "post_clap_count": 6416,
+    "post_comment_count": 54,
+    "post_tags": ["Data Science", "Programming", "Big Data", "Tech", "Startup"]
+  },
+  {
+    "topic_name": "data-science",
+    "post_title": "Programming Languages to Avoid and Learn in 2022.",
+    "post_link": "https://zriyansh.medium.com/programming-languages-to-avoid-and-learn-in-2022-c8e2a1cdf427",
+    "author_name": "Priyansh Khodiyar",
+    "post_date": "2021-12-15",
+    "read_time": 16,
+    "author_follower_count": 1684,
+    "post_clap_count": 5999,
+    "post_comment_count": 133,
+    "post_tags": [
+      "Programming Languages",
+      "Technology",
+      "Software Engineering",
+      "JavaScript",
+      "Data Science"
+    ]
+  }
+]

@@ -1,1 +1,158 @@
-[{"topic_name": "javascript", "post_title": "What programming language should you learn first?", "post_link": "https://medium.com/free-code-camp/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d", "author_name": "Quincy Larson", "post_date": "2016-11-03", "read_time": 9, "author_follower_count": 156557, "post_clap_count": 22864, "post_comment_count": 218, "post_tags": ["Web Development", "Tech", "Life Lessons", "Startup", "JavaScript"]}, {"topic_name": "javascript", "post_title": "Introducing npx: an npm package runner", "post_link": "https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b", "author_name": "Kat March\u00e1n", "post_date": "2017-07-11", "read_time": 6, "author_follower_count": 3097, "post_clap_count": 19164, "post_comment_count": 65, "post_tags": ["JavaScript", "NPM", "Npm Scripts", "Npx", "Create React App"]}, {"topic_name": "javascript", "post_title": "Using environment variables in React", "post_link": "https://trekinbami.medium.com/using-environment-variables-in-react-6b0a99d83cf5", "author_name": "Sam Pakvis", "post_date": "2018-05-26", "read_time": 3, "author_follower_count": 466, "post_clap_count": 5365, "post_comment_count": 30, "post_tags": ["JavaScript", "Webpack", "Front End Development", "React", "Reactjs"]}, {"topic_name": "javascript", "post_title": "I Met a Rich Programmer, He Gave Me 3 Life-Changing Pieces of Advice", "post_link": "https://javascript.plainenglish.io/i-met-a-rich-programmer-he-gave-me-3-life-changing-pieces-of-advice-a3754d73a50c", "author_name": "Aniket", "post_date": "2022-01-27", "read_time": 3, "author_follower_count": 4621, "post_clap_count": 10154, "post_comment_count": 78, "post_tags": ["Programming", "Software Development", "JavaScript", "Web Development", "Coding"]}, {"topic_name": "javascript", "post_title": "Angular 2 versus React: There Will Be Blood", "post_link": "https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51", "author_name": "Cory House", "post_date": "2016-01-04", "read_time": 9, "author_follower_count": 20414, "post_clap_count": 3643, "post_comment_count": 189, "post_tags": ["JavaScript", "Angularjs", "React", "Tech", "Programming"]}, {"topic_name": "javascript", "post_title": "Master the JavaScript Interview: What is Functional Programming?", "post_link": "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0", "author_name": "Eric Elliott", "post_date": "2017-01-04", "read_time": 10, "author_follower_count": 112823, "post_clap_count": 24427, "post_comment_count": 56, "post_tags": ["JavaScript", "Functional Programming", "Technology"]}, {"topic_name": "javascript", "post_title": "JavaScript: async/await with forEach()", "post_link": "https://codeburst.io/javascript-async-await-with-foreach-b6ba62bbf404", "author_name": "Sebastien Chopin", "post_date": "2017-10-05", "read_time": 1, "author_follower_count": 1209, "post_clap_count": 11140, "post_comment_count": 66, "post_tags": ["JavaScript", "Nodejs", "Node", "Js"]}, {"topic_name": "javascript", "post_title": "5 Best JavaScript Frameworks in 2017", "post_link": "https://medium.com/hackernoon/5-best-javascript-frameworks-in-2017-7a63b3870282", "author_name": "Yevheniia Korotia", "post_date": "2017-01-19", "read_time": 6, "author_follower_count": 1932, "post_clap_count": 1824, "post_comment_count": 21, "post_tags": ["JavaScript", "React", "Web Development", "Angularjs", "Development"]}, {"topic_name": "javascript", "post_title": "Angular: Unit Testing Jasmine, Karma (step by step)", "post_link": "https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4", "author_name": "Santiago Garc\u00eda da Rosa", "post_date": "2017-11-30", "read_time": 8, "author_follower_count": 1272, "post_clap_count": 7693, "post_comment_count": 22, "post_tags": ["JavaScript", "Angular 4", "Angular Cli", "Angular", "Angular2"]}, {"topic_name": "javascript", "post_title": "The Mistakes I Made As a Beginner Programmer", "post_link": "https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312", "author_name": "Samer Buna", "post_date": "2018-02-14", "read_time": 27, "author_follower_count": 26948, "post_clap_count": 82167, "post_comment_count": 221, "post_tags": ["Programming", "Beginner", "Technology", "JavaScript", "Coding"]}]
+[
+  {
+    "topic_name": "javascript",
+    "post_title": "What programming language should you learn first?",
+    "post_link": "https://medium.com/free-code-camp/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d",
+    "author_name": "Quincy Larson",
+    "post_date": "2016-11-03",
+    "read_time": 9,
+    "author_follower_count": 156557,
+    "post_clap_count": 22864,
+    "post_comment_count": 218,
+    "post_tags": [
+      "Web Development",
+      "Tech",
+      "Life Lessons",
+      "Startup",
+      "JavaScript"
+    ]
+  },
+  {
+    "topic_name": "javascript",
+    "post_title": "Introducing npx: an npm package runner",
+    "post_link": "https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b",
+    "author_name": "Kat March\u00e1n",
+    "post_date": "2017-07-11",
+    "read_time": 6,
+    "author_follower_count": 3097,
+    "post_clap_count": 19164,
+    "post_comment_count": 65,
+    "post_tags": ["JavaScript", "NPM", "Npm Scripts", "Npx", "Create React App"]
+  },
+  {
+    "topic_name": "javascript",
+    "post_title": "Using environment variables in React",
+    "post_link": "https://trekinbami.medium.com/using-environment-variables-in-react-6b0a99d83cf5",
+    "author_name": "Sam Pakvis",
+    "post_date": "2018-05-26",
+    "read_time": 3,
+    "author_follower_count": 466,
+    "post_clap_count": 5365,
+    "post_comment_count": 30,
+    "post_tags": [
+      "JavaScript",
+      "Webpack",
+      "Front End Development",
+      "React",
+      "Reactjs"
+    ]
+  },
+  {
+    "topic_name": "javascript",
+    "post_title": "I Met a Rich Programmer, He Gave Me 3 Life-Changing Pieces of Advice",
+    "post_link": "https://javascript.plainenglish.io/i-met-a-rich-programmer-he-gave-me-3-life-changing-pieces-of-advice-a3754d73a50c",
+    "author_name": "Aniket",
+    "post_date": "2022-01-27",
+    "read_time": 3,
+    "author_follower_count": 4621,
+    "post_clap_count": 10154,
+    "post_comment_count": 78,
+    "post_tags": [
+      "Programming",
+      "Software Development",
+      "JavaScript",
+      "Web Development",
+      "Coding"
+    ]
+  },
+  {
+    "topic_name": "javascript",
+    "post_title": "Angular 2 versus React: There Will Be Blood",
+    "post_link": "https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51",
+    "author_name": "Cory House",
+    "post_date": "2016-01-04",
+    "read_time": 9,
+    "author_follower_count": 20414,
+    "post_clap_count": 3643,
+    "post_comment_count": 189,
+    "post_tags": ["JavaScript", "Angularjs", "React", "Tech", "Programming"]
+  },
+  {
+    "topic_name": "javascript",
+    "post_title": "Master the JavaScript Interview: What is Functional Programming?",
+    "post_link": "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0",
+    "author_name": "Eric Elliott",
+    "post_date": "2017-01-04",
+    "read_time": 10,
+    "author_follower_count": 112823,
+    "post_clap_count": 24427,
+    "post_comment_count": 56,
+    "post_tags": ["JavaScript", "Functional Programming", "Technology"]
+  },
+  {
+    "topic_name": "javascript",
+    "post_title": "JavaScript: async/await with forEach()",
+    "post_link": "https://codeburst.io/javascript-async-await-with-foreach-b6ba62bbf404",
+    "author_name": "Sebastien Chopin",
+    "post_date": "2017-10-05",
+    "read_time": 1,
+    "author_follower_count": 1209,
+    "post_clap_count": 11140,
+    "post_comment_count": 66,
+    "post_tags": ["JavaScript", "Nodejs", "Node", "Js"]
+  },
+  {
+    "topic_name": "javascript",
+    "post_title": "5 Best JavaScript Frameworks in 2017",
+    "post_link": "https://medium.com/hackernoon/5-best-javascript-frameworks-in-2017-7a63b3870282",
+    "author_name": "Yevheniia Korotia",
+    "post_date": "2017-01-19",
+    "read_time": 6,
+    "author_follower_count": 1932,
+    "post_clap_count": 1824,
+    "post_comment_count": 21,
+    "post_tags": [
+      "JavaScript",
+      "React",
+      "Web Development",
+      "Angularjs",
+      "Development"
+    ]
+  },
+  {
+    "topic_name": "javascript",
+    "post_title": "Angular: Unit Testing Jasmine, Karma (step by step)",
+    "post_link": "https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4",
+    "author_name": "Santiago Garc\u00eda da Rosa",
+    "post_date": "2017-11-30",
+    "read_time": 8,
+    "author_follower_count": 1272,
+    "post_clap_count": 7693,
+    "post_comment_count": 22,
+    "post_tags": [
+      "JavaScript",
+      "Angular 4",
+      "Angular Cli",
+      "Angular",
+      "Angular2"
+    ]
+  },
+  {
+    "topic_name": "javascript",
+    "post_title": "The Mistakes I Made As a Beginner Programmer",
+    "post_link": "https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312",
+    "author_name": "Samer Buna",
+    "post_date": "2018-02-14",
+    "read_time": 27,
+    "author_follower_count": 26948,
+    "post_clap_count": 82167,
+    "post_comment_count": 221,
+    "post_tags": [
+      "Programming",
+      "Beginner",
+      "Technology",
+      "JavaScript",
+      "Coding"
+    ]
+  }
+]
